@@ -1,7 +1,0 @@
-br\ce\luizacerchiari\tarefasbackend\model\Tarefas.class
-br\ce\luizacerchiari\tarefasbackend\utils\DateUtils.class
-br\ce\luizacerchiari\tarefasbackend\TarefaBackendApplication.class
-br\ce\luizacerchiari\tarefasbackend\repo\TarefasRepo.class
-br\ce\luizacerchiari\tarefasbackend\controller\RootController.class
-br\ce\luizacerchiari\tarefasbackend\controller\TarefaController.class
-br\ce\luizacerchiari\tarefasbackend\utils\ValidationException.class
